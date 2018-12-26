@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #FFDEAD !important;
+}
+
+.div_center{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+
+input {
+  max-width: 500px;
+}
